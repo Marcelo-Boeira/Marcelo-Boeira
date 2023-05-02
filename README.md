@@ -1,8 +1,8 @@
 ### Bem vindo! 💙
 
-Me chamo **Marcelo Boeira
+Me chamo **Marcelo Boeira**
 - Cursista [Alura](https://www.alura.com.br)
-- Me desenvolvendo na **Linguagem JavaScript
+- Me desenvolvendo na **Linguagem JavaScript**
 - Professor de Química
 - Aprendendo e ensinando Pensamento Computacional e Robótica
 - Espaço de organização e compartilhamento de meus projetos
